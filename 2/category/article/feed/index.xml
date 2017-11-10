@@ -9,8 +9,8 @@
 
 <channel>
 	<title>article &#8211; Optimizing Mind</title>
-	<atom:link href="/category/article/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/2/category/article/feed/" rel="self" type="application/rss+xml" />
+	<link>/2/</link>
 	<description>Bringing Neuroscience to AI</description>
 	<lastBuildDate>Wed, 08 Nov 2017 08:05:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,9 +19,9 @@
 	<generator>https://wordpress.org/?v=4.8.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2017/02/cropped-om-logo-clear-e1486834955719-32x32.png</url>
+	<url>/2/wp-content/uploads/2017/02/cropped-om-logo-clear-e1486834955719-32x32.png</url>
 	<title>article &#8211; Optimizing Mind</title>
-	<link>/</link>
+	<link>/2/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -92,15 +92,15 @@
 		</item>
 		<item>
 		<title>Transparent machine learning: How to create &#8216;clear-box&#8217; AI</title>
-		<link>/transparent-machine-learning-how-to-create-clear-box-ai/</link>
-		<comments>/transparent-machine-learning-how-to-create-clear-box-ai/#respond</comments>
+		<link>/2/transparent-machine-learning-how-to-create-clear-box-ai/</link>
+		<comments>/2/transparent-machine-learning-how-to-create-clear-box-ai/#respond</comments>
 		<pubDate>Mon, 13 Feb 2017 00:58:31 +0000</pubDate>
 		<dc:creator><![CDATA[Optimizing Mind MD. PhD.]]></dc:creator>
 				<category><![CDATA[article]]></category>
 
 		<guid isPermaLink="false">http://dev.optimizingmind.com/?p=138</guid>
 		<description><![CDATA[AI and robots can be trained to perform many tasks, but systems often operate in a black box, so we don&#8217;t know how decisions are made. Here&#8217;s how one company created a transparent alternative. The next big thing in AI may not be getting a machine to perform a task—it might be requiring the machine [&#8230;]]]></description>
-		<wfw:commentRss>/transparent-machine-learning-how-to-create-clear-box-ai/feed/</wfw:commentRss>
+		<wfw:commentRss>/2/transparent-machine-learning-how-to-create-clear-box-ai/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

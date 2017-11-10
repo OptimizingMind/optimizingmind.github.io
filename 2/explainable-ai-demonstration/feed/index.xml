@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: Explainable AI Demonstration</title>
-	<atom:link href="/explainable-ai-demonstration/feed/" rel="self" type="application/rss+xml" />
-	<link>/explainable-ai-demonstration/</link>
+	<atom:link href="/2/explainable-ai-demonstration/feed/" rel="self" type="application/rss+xml" />
+	<link>/2/explainable-ai-demonstration/</link>
 	<description>Bringing Neuroscience to AI</description>
-	<lastBuildDate>Thu, 09 Nov 2017 05:31:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Nov 2017 07:29:29 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.3</generator>
